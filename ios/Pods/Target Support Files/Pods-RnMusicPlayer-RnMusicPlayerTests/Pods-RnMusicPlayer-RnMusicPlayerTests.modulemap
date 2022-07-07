@@ -1,0 +1,6 @@
+module Pods_RnMusicPlayer_RnMusicPlayerTests {
+  umbrella header "Pods-RnMusicPlayer-RnMusicPlayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

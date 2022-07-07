@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RnMusicPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/RnMusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RnMusicPlayer.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-234269506/RnMusicPlayer.react-native-community_slider.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.iml" filepath="$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.main.iml" filepath="$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/279195420/RnMusicPlayer.react-native-track-player.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848614263/RnMusicPlayer.react-native-vector-icons.unitTest.iml" />
+    </modules>
+  </component>
+</project>

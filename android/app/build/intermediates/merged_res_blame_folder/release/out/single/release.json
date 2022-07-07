@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_badliar.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_badliar.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_solo.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_solo.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_hateme.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_hateme.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_deathbed.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_deathbed.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_faded.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_faded.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_albumarts_withoutme.jpg.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/drawable-mdpi/assets_albumarts_withoutme.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/RN-Music-Player-master/android/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbook/Documents/RN-Music-Player-master/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]
